@@ -10,13 +10,13 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Ruby wrapper around the GoTeamup API."
   spec.description = "Ruby wrapper around the GoTeamup API."
-  spec.homepage = "https://github.com/goteamup-ruby"
+  spec.homepage = "https://github.com/aditya-kapoor/goteamup-ruby"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/goteamup-ruby"
-  spec.metadata["changelog_uri"] = "https://github.com/goteamup-ruby"
+  spec.metadata["source_code_uri"] = "https://github.com/aditya-kapoor/goteamup-ruby"
+  spec.metadata["changelog_uri"] = "https://github.com/aditya-kapoor/goteamup-ruby"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
